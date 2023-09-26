@@ -1,7 +1,7 @@
 # VPN-Setup
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+![image](https://github.com/Jbr2621/VPN-Setup/assets/142756706/21b5a839-bc04-48cd-94cb-74f3da5b423d)
+
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />

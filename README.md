@@ -1,6 +1,8 @@
 # VPN-Setup
 <p align="center">
-![image](https://github.com/Jbr2621/VPN-Setup/assets/142756706/21b5a839-bc04-48cd-94cb-74f3da5b423d)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/142756706/270819838-21b5a839-bc04-48cd-94cb-74f3da5b423d.png" alt="osTicket logo"/>
+</p>
+
 
 
 <h1>osTicket - Prerequisites and Installation</h1>

@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of VPN Setup.<br />
  Part 1 (Create Virtual Machine in Azure)
 
 - Create a Resource Group
-- img src="(https://github.com/Jbr2621/VPN-Setup/assets/142756706/697f8d8e-8b00-44d1-acfd-4d74bb4816a6)"/>
+- <img src="https://github.com/Jbr2621/VPN-Setup/assets/142756706/697f8d8e-8b00-44d1-acfd-4d74bb4816a6.png"/>
 </p>
 
 - Create a Windows 10 Virtual Machine in another geographic location

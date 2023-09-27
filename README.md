@@ -31,10 +31,12 @@ This tutorial outlines the prerequisites and installation of VPN Setup.<br />
 
 - Create a Windows 10 Virtual Machine in another geographic location
 
-  
   Part 2 (Implementation)
  
 -Browse to https://whatismyipaddress.com/ and take note of this in a text file
+!<img src="https://github.com/Jbr2621/VPN-Setup/assets/142756706/1c8d4db5-29bd-418c-82bf-660bf8ad4f96.png"/> 
+</p>
+
 
 -Create a Resource Group
 

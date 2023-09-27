@@ -49,7 +49,8 @@ This tutorial outlines the prerequisites and installation of VPN Setup.<br />
 -(Sign up for ProtonVPN and test the VPN connection) 
 
 -Back within your VM, download the Proton VPN client
-
+!<img src="https://github.com/Jbr2621/VPN-Setup/assets/142756706/214dcd64-e2bf-4eb6-b86c-51eb52182a42.png"/>
+</p>
 -Login to the VPN and choose a VPN server in yet another country (such as Japan)
 
 -Browse to https://whatismyipaddress.com/  and take note of this in a text file
